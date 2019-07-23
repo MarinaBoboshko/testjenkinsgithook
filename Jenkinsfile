@@ -4,6 +4,6 @@
 
 	node {
 
-	    println 'Hello, Jenkins!'
+	    println 'This is new branch'
 
 	}
